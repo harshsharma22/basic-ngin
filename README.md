@@ -1,2 +1,2 @@
 # basic-ngin
-basic nnginx configuration for nginx to run on kubernetes
+basic nginx configuration for  kubernetes
